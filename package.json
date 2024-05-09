@@ -1,0 +1,12 @@
+{
+  "name": "challenge",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+    "start": "node challenge.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
