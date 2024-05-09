@@ -58,6 +58,7 @@ async function compareObjects(json1, json2){
             const newObj = {
                 LastName: obj.last_name,
                 FirstName: obj.first_name,
+                Email: obj.email,
                 TokenBalance: obj.tokens,
                 newBalance: balance
             };
